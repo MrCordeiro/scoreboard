@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Scoreboard to ...that keeps score!
+
+# About
+
+This project was created by following a Treehouse tutorial. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
