@@ -11,7 +11,10 @@
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
   },
+  "homepage": "http://mrcordeiro.github.io/scoreboard",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -31,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
